@@ -6,3 +6,5 @@ seaborn
 tensorflow
 keras
 opencv-python
+pydot 
+graphviz
